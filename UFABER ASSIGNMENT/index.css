@@ -1,0 +1,767 @@
+.block1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 725px;
+  overflow: scroll;
+
+  background: hsl(72, 45%, 98%) 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.nav {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 80px;
+
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 1px 10px #0000001a;
+  opacity: 1;
+}
+.nav-item {
+  position: fixed;
+  top: 35px;
+  left: 616px;
+  width: 104px;
+  height: 14px;
+
+  text-align: left;
+  font: normal normal normal 14px/25px Granstander Clean;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+.material {
+  position: fixed;
+
+  top: 15px;
+  left: 1115px;
+  width: 160px;
+  height: 50px;
+
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 1px 1px 0px #00000029;
+  border: 1px solid #333333;
+  border-radius: 25px;
+  opacity: 1;
+}
+.prop {
+  position: fixed;
+  border-radius: 50%;
+  top: 18px;
+  left: 1118px;
+  width: 44px;
+  height: 44px;
+
+  background: #bffe8a 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+#id1 {
+  position: fixed;
+  border-radius: 50%;
+  top: 26px;
+  left: 1132px;
+  width: 17px;
+  height: 17px;
+
+  background: #a0e467 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+#id2 {
+  position: fixed;
+  border-radius: 50%;
+  top: 44px;
+  left: 1125px;
+  width: 30px;
+  height: 18px;
+
+  background: #a0e467 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.group {
+  position: fixed;
+  top: 35px;
+  left: 616px;
+  width: 456px;
+  height: 14px;
+
+  opacity: 1;
+}
+.Masterclass {
+  position: fixed;
+  top: 35px;
+  left: 616px;
+  width: 104px;
+  height: 14px;
+
+  text-align: left;
+  font: normal normal bold 14px/25px Granstander Clean;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+.Programs {
+  position: fixed;
+  top: 35px;
+  left: 772px;
+  width: 73px;
+  height: 14px;
+
+  text-align: left;
+  font: normal normal bold 14px/25px Granstander Clean;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+.challenges {
+  position: fixed;
+  top: 35px;
+  left: 892px;
+  width: 81px;
+  height: 14px;
+
+  text-align: left;
+  font: normal normal bold 14px/25px Granstander Clean;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+.Library {
+  position: fixed;
+  top: 35px;
+  left: 1020px;
+  width: 52px;
+  height: 14px;
+
+  text-align: left;
+  font: normal normal bold 14px/25px Granstander Clean;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+
+.value {
+  position: fixed;
+  top: 29px;
+  left: 1168px;
+  width: 69px;
+  height: 18px;
+
+  text-align: left;
+  font: normal normal bold 18px/22px Granstander Clean;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+#g2 {
+  position: fixed;
+  top: 29px;
+  left: 165px;
+  width: 220px;
+  height: 21px;
+
+  opacity: 1;
+}
+#menubar {
+  position: fixed;
+  top: 28px;
+  left: 71px;
+  width: 24px;
+  height: 24px;
+  opacity: 1;
+}
+
+.menu1 {
+  position: fixed;
+  top: 28px;
+  left: 71px;
+  width: 24px;
+  height: 3px;
+
+  background: #333333 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+
+.menu2 {
+  position: fixed;
+  top: 38px;
+  left: 71px;
+  width: 24px;
+  height: 3px;
+
+  background: #333333 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+.menu3 {
+  position: fixed;
+  top: 49px;
+  left: 71px;
+  width: 24px;
+  height: 3px;
+
+  background: #333333 0% 0% no-repeat padding-box;
+  border-radius: 2px;
+  opacity: 1;
+}
+
+#para {
+  position: fixed;
+  top: 112px;
+  left: 165px;
+  width: 208px;
+  height: 19px;
+
+  text-align: left;
+  font: normal normal medium 15px/28px Montserrat;
+  letter-spacing: 0px;
+  color: #adbabd;
+  opacity: 1;
+}
+#content {
+  position: fixed;
+  top: 154px;
+  left: 165px;
+  width: 920px;
+  height: 50px;
+
+  text-align: left;
+  font: normal normal medium 35px/43px Montserrat;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+.box {
+  position: fixed;
+  top: 148px;
+  left: 1115px;
+  width: 160px;
+  height: 50px;
+
+  background: #fdffd3 0% 0% no-repeat padding-box;
+  box-shadow: 1px 1px 0px #00000029;
+  border: 1px solid #333333;
+  border-radius: 5px;
+  opacity: 1;
+}
+#img {
+  position: fixed;
+  top: 155px;
+  left: 1135px;
+  width: 31px;
+  height: 34px;
+
+  background: transparent url("like.svg") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+#val {
+  position: fixed;
+  top: 156px;
+  left: 1183px;
+  width: 71px;
+  height: 36px;
+
+  text-align: left;
+  letter-spacing: NaNpx;
+  color: #333333;
+  text-transform: uppercase;
+  opacity: 1;
+}
+#val1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 22px;
+
+  text-align: left;
+  font: normal normal bold 18px/16px Montserrat;
+  letter-spacing: 0px;
+  color: #333333;
+}
+#val2 {
+  position: absolute;
+  top: 23px;
+  left: 0px;
+  width: 71px;
+  height: 13px;
+
+  text-align: left;
+  font: normal normal 300 10px/16px Montserrat;
+  letter-spacing: 0px;
+  color: #333333;
+  text-transform: uppercase;
+}
+
+#musiam {
+  position: fixed;
+  top: 212px;
+  left: 165px;
+  width: 164px;
+  height: 22px;
+
+  text-align: left;
+  font: normal normal medium 18px/22px Montserrat;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+#years {
+  position: fixed;
+  top: 212px;
+  left: 355px;
+  width: 75px;
+  height: 22px;
+
+  text-align: left;
+  font: normal normal medium 18px/22px Montserrat;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+#schoolimg {
+  position: fixed;
+  top: 267px;
+  left: 165px;
+  width: 570px;
+  height: 367px;
+
+  opacity: 1;
+}
+.image2 {
+  position: fixed;
+  top: 280px;
+  left: 610px;
+  width: 165px;
+  height: 20px;
+
+  opacity: 1;
+}
+.textblock {
+  position: fixed;
+  top: 566px;
+  left: 183px;
+  width: 210px;
+  height: 52px;
+
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 1px 1px 0px #00000029;
+  border-radius: 5px;
+  opacity: 1;
+}
+#pauselogo {
+  position: fixed;
+
+  top: 584px;
+  left: 221px;
+  width: 15px;
+  height: 18px;
+
+  transform: matrix(0, 1, -1, 0, 0, 0), rotateX(45deg), rotateY(90deg),
+    rotateZ(45 deg);
+
+  background: #333333 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+#Trailer {
+  position: fixed;
+  top: 583px;
+  left: 243px;
+  width: 112px;
+  height: 16px;
+
+  text-align: left;
+  font: normal normal normal 16px/24px Granstander Clean;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+.detail {
+  position: fixed;
+  top: 266px;
+  left: 830px;
+  width: 445px;
+  height: 347px;
+
+  opacity: 1;
+}
+
+#liveon {
+  position: fixed;
+  top: 266px;
+  left: 830px;
+  width: 60px;
+  height: 18px;
+
+  text-align: left;
+  font: normal normal normal 14px/18px Montserrat;
+  letter-spacing: 0px;
+  color: #a9b7b9;
+  opacity: 1;
+}
+
+#dev {
+  position: fixed;
+  top: 268px;
+  left: 1210px;
+  width: 54px;
+  height: 16px;
+
+  text-align: left;
+  font: normal normal normal 14px/16px Gotham;
+  letter-spacing: 0px;
+  color: #a9b7b9;
+  opacity: 1;
+}
+
+.date {
+  position: fixed;
+  top: 293px;
+  left: 830px;
+  width: 298px;
+  height: 29px;
+
+  text-align: left;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+
+#date1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 174px;
+  height: 29px;
+
+  text-align: left;
+  font: normal normal bold 24px/29px Gotham;
+  letter-spacing: 0px;
+  color: #333333;
+}
+
+#date2 {
+  position: absolute;
+  top: 0px;
+  left: 138px;
+  width: 125px;
+  height: 29px;
+
+  text-align: left;
+  font: normal normal 24px/29px Gotham;
+  letter-spacing: 0px;
+  color: #333333;
+}
+
+.devices {
+  position: fixed;
+  top: 268px;
+  left: 1210px;
+  width: 60px;
+  height: 48px;
+  opacity: 1;
+}
+
+#pc {
+  position: fixed;
+  top: 299px;
+  left: 1210px;
+  width: 21px;
+  height: 17px;
+
+  background: #434c54 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+#or {
+  position: fixed;
+  top: 305px;
+  left: 1239px;
+  width: 10px;
+  height: 12px;
+
+  text-align: center;
+  font: normal normal normal 10px/4px Gotham Rounded;
+  letter-spacing: 0px;
+  color: #323232;
+  opacity: 1;
+}
+#mob {
+  position: fixed;
+  top: 299px;
+  left: 1260px;
+  width: 11px;
+  height: 17px;
+
+  background: transparent url("app.svg") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+#slot {
+  position: fixed;
+  top: 356px;
+  left: 830px;
+  width: 85px;
+  height: 18px;
+
+  text-align: left;
+  font: normal normal normal 14px/18px Montserrat;
+  letter-spacing: 0px;
+  color: #a9b7b9;
+  opacity: 1;
+}
+
+.time {
+  position: fixed;
+  top: 383px;
+  left: 830px;
+  width: 350px;
+  height: 35px;
+  opacity: 1;
+}
+.rec1 {
+  position: fixed;
+  top: 383px;
+  left: 830px;
+  width: 102px;
+  height: 35px;
+
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 20px;
+  opacity: 1;
+}
+
+#t1 {
+  position: fixed;
+  top: 394px;
+  left: 848px;
+  width: 65px;
+  height: 18px;
+
+  text-align: center;
+  font: normal normal normal 14px/12px Montserrat;
+  letter-spacing: 0px;
+  color: #515151;
+  opacity: 1;
+}
+.rec2 {
+  position: fixed;
+  top: 383px;
+  left: 954px;
+  width: 102px;
+  height: 35px;
+
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 18px;
+  opacity: 1;
+}
+
+#t2 {
+  position: fixed;
+  top: 387px;
+  left: 985px;
+  width: 39px;
+  height: 18px;
+
+  text-align: center;
+  font: normal normal medium 14px/18px Montserrat;
+  letter-spacing: 0px;
+  color: #515151;
+  opacity: 1;
+}
+
+.rec3 {
+  position: fixed;
+  top: 383px;
+  left: 1078px;
+  width: 102px;
+  height: 35px;
+
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 18px;
+  opacity: 1;
+}
+
+#t3 {
+  position: fixed;
+  top: 387px;
+  left: 1099px;
+  width: 59px;
+  height: 18px;
+
+  text-align: center;
+  font: normal normal medium 14px/18px Montserrat;
+  letter-spacing: 0px;
+  color: #515151;
+  opacity: 1;
+}
+
+#classfee {
+  position: fixed;
+  top: 472px;
+  left: 830px;
+  width: 68px;
+  height: 18px;
+
+  text-align: left;
+  font: normal normal normal 14px/18px Montserrat;
+  letter-spacing: 0px;
+  color: #a9b7b9;
+  opacity: 1;
+}
+.container {
+  position: fixed;
+  top: 499px;
+  left: 830px;
+  width: 160px;
+  height: 45px;
+
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 2px 2px 0px #0000001a;
+  border-radius: 5px;
+  opacity: 1;
+}
+.rupee {
+  position: fixed;
+  top: 512px;
+  left: 841px;
+  width: 55px;
+  height: 18px;
+
+  text-align: center;
+  font: normal normal 14px/18px Montserrat;
+  letter-spacing: 0px;
+  color: #6997a1;
+  opacity: 1;
+}
+#rupee1 {
+  position: fixed;
+  top: 520px;
+  left: 837px;
+  width: 59px;
+  height: 0px;
+
+  border: 1px solid #6997a1;
+  opacity: 1;
+}
+#rupee2 {
+  position: fixed;
+  top: 511px;
+  left: 904px;
+  width: 65px;
+  height: 22px;
+
+  text-align: center;
+  font: normal normal bold 18px/22px Montserrat;
+  letter-spacing: 0px;
+  color: #262525;
+  opacity: 1;
+}
+#points {
+  position: fixed;
+  top: 514px;
+  left: 1020px;
+  width: 132px;
+  height: 17px;
+
+  text-align: left;
+  text-decoration: underline;
+  font: normal normal 600 15px/19px Montserrat;
+  letter-spacing: 0px;
+  color: red;
+  opacity: 1;
+}
+.rect {
+  position: fixed;
+  top: 568px;
+  left: 830px;
+  width: 350px;
+  height: 45px;
+
+  background: #ff3a58 0% 0% no-repeat padding-box;
+  box-shadow: 2px 2px 0px #0000001a;
+  border: 1px solid #ff3a58;
+  border-radius: 5px;
+  opacity: 1;
+}
+
+#rectText {
+  position: fixed;
+  top: 582px;
+  left: 905px;
+  width: 200px;
+  height: 16px;
+
+  text-align: center;
+  font: normal normal normal 16px/19px Granstander Clean;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.rect2 {
+  position: fixed;
+  top: 568px;
+  left: 1210px;
+  width: 65px;
+  height: 45px;
+
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 2px 2px 0px #0000001a;
+  border: 1px solid #ff3a58;
+  border-radius: 5px;
+  opacity: 1;
+}
+
+#rectText1 {
+  position: fixed;
+  top: 584px;
+  left: 1222px;
+  width: 42px;
+  height: 14px;
+
+  text-align: center;
+  font: normal normal normal 14px/17px Granstander Clean;
+  letter-spacing: 0px;
+  color: #ff3a58;
+  opacity: 1;
+}
+
+.body1 {
+  position: absolute;
+  top: 758px;
+  left: 165px;
+  width: 1128px;
+  height: 347px;
+  opacity: 1;
+}
+
+#secondBlock {
+  position: fixed;
+  top: 758px;
+  left: 165px;
+  width: 32px;
+  height: 6px;
+
+  background: #a0e467 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+}
+#text2 {
+  position: fixed;
+  top: 783px;
+  left: 165px;
+  width: 769px;
+  height: 25px;
+
+  text-align: left;
+  font: normal normal normal 25px/24px Granstander Clean;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
